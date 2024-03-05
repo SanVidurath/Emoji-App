@@ -1,0 +1,12 @@
+.centerEmojiAtXs {
+  text-align: right;
+}
+
+@media (max-width: 600px) {
+  .centerTextAtXs {
+    text-align: center;
+  }
+  .centerEmojiAtXs {
+    text-align: center;
+  }
+}
