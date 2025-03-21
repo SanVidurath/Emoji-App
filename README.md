@@ -1,4 +1,12 @@
 # Emoji-App
-# React + TypeScript + Vite
+
+Search for your favorite emojis here 
+
+### Technologies Used
+* Vite (Build tool)
+* React
+* Typescript
+* CSS
+  
 
 
