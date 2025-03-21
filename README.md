@@ -9,8 +9,8 @@ Search for your favorite emojis here
 ## Technologies Used
 * React Typescript
 * Javascript
-* CSS
 * HTML
+* CSS
 * Vite (Build tool)
   
 
