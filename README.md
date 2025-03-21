@@ -7,6 +7,7 @@ Search for your favorite emojis here
 * React
 * Typescript
 * CSS
+* HTML
   
 
 
